@@ -79,5 +79,6 @@ public class Sobre_1 extends JFrame {
 		lblVerso.setForeground(Color.BLACK);
 		lblVerso.setBounds(211, 333, 116, 15);
 		contentPane.add(lblVerso);
+		
 	}
 }
